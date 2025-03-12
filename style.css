@@ -1,0 +1,23 @@
+/* style.css */
+
+body {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.subtitle .item_list {
+    font-size: medium;
+    font-weight: normal;
+}
+
+#description {
+    font-size: medium;
+    font-style: oblique;
+}
